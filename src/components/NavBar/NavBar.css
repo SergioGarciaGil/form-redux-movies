@@ -26,6 +26,7 @@
 }
 
 .list-item {
+  /* color: white; */
   margin: 0;
   display: flex;
   height: 100%;

@@ -20,7 +20,6 @@ export default function NavBar() {
       <nav>
         <ul className="list">
           <li className="list-item">
-            Nav
             {/* <NavLink to="/favs">Favoritas</NavLink> */}
           </li>
         </ul>
